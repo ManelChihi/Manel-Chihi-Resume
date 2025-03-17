@@ -14,11 +14,11 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #ffb3d8;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #ff8fc5;
 }
 
 .resume-aside {
@@ -26,7 +26,7 @@ body {
 }
 
 .language-progress {
-	background-color: #4CAF50; /* Change this to your desired color */
+	background-color: #f23490;
   }  
 
 /* Styles for lists in the document */
