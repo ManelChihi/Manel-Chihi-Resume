@@ -38,8 +38,12 @@ body {
 	background-color: #e94c98;
 }  
 
+.language-level {
+	background-color: #b6869d;
+}  
+
 .position-absolute {
-	background-color: #a98b99;
+	background-color: #ffffff;
 }  
 
 /* Styles for lists in the document */
