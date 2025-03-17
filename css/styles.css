@@ -26,7 +26,11 @@ body {
 }
 
 .language-progress {
-	background-color: #f23490;
+	background-color: #e94c98;
+}  
+
+.language-level {
+	background-color: #ffffff;
 }  
 
 /* Styles for lists in the document */
