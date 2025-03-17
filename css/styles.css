@@ -42,10 +42,6 @@ body {
 	background-color: #b6869d;
 }  
 
-.position-absolute {
-	background-color: #ffffff;
-}  
-
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
