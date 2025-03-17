@@ -25,6 +25,10 @@ body {
 	background-color: #fff0e0;
 }
 
+.language-progress {
+	background-color: #4CAF50; /* Change this to your desired color */
+  }  
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
